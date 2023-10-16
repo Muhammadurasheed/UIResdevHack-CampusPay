@@ -2,7 +2,7 @@
 
 Welcome to HealthPaddy, a revolutionary mobile application designed to empower students and health-conscious individuals with comprehensive health solutions. 
 
-![HealthPaddy Logo](assets/images/healthpaddy_logo.png.png)
+![HealthPaddy Logo](assets/images/healthpaddy_logo.png)
 
 ## Overview
 
