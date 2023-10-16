@@ -105,7 +105,7 @@ class _ChatScreenState extends State<ChatScreen> {
                                   crossAxisAlignment: CrossAxisAlignment.start,
                                   children: <Widget>[
                                     Image.asset(
-                                      AssetsManager.userImage,
+                                      AssetsManager.aiDoctor,
                                       height: 100,
                                       width: 100,
                                       fit: BoxFit.cover,
@@ -157,7 +157,7 @@ class _ChatScreenState extends State<ChatScreen> {
                                   crossAxisAlignment: CrossAxisAlignment.start,
                                   children: <Widget>[
                                     Image.asset(
-                                      AssetsManager.userImage,
+                                      AssetsManager.aiCompanion,
                                       height: 100,
                                       width: 100,
                                       fit: BoxFit.cover,
@@ -210,7 +210,7 @@ class _ChatScreenState extends State<ChatScreen> {
                                   crossAxisAlignment: CrossAxisAlignment.start,
                                   children: <Widget>[
                                     Image.asset(
-                                      AssetsManager.userImage,
+                                      AssetsManager.voice,
                                       height: 100,
                                       width: 100,
                                       fit: BoxFit.cover,
